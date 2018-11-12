@@ -1,0 +1,13 @@
+{
+  "name": "@test/b",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@test/a": "1.0"
+  }
+}

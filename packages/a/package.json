@@ -1,0 +1,10 @@
+{
+  "name": "@test/a",
+  "version": "1.0.0",
+  "main": "build/a.js",
+  "types": "build/a.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "tsc": "tsc"
+  }
+}
